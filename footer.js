@@ -1,10 +1,10 @@
 import React from 'react';
 import { Text } from 'react-native';
 
-const Cat = () => {
+const Footer = () => {
     return (
-    <Text>I am cat</Text>
+    <Text>I am the footer</Text>
     );
   }
   
-export default Cat;
+export default Footer;

@@ -1,0 +1,2 @@
+To start
+expo start
